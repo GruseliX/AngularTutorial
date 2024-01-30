@@ -13,6 +13,7 @@ export class ProductListComponent {
   share() {
     window.alert('Das Peoduckt wurde verteilt!');
   }
+  
   onNotify(){
     window.alert('Du wirst benachrichtigt sobald das Produkt in den Verkauf geht.' );
   }
